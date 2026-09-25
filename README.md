@@ -32,3 +32,12 @@ mDNSResponder      104      _mdnsresponder [SYSTEM  ]   192.168.1.50:5353->...
 Spotify            661      semanurbicer   [KNOWN APP]  192.168.1.50:49913->34.158.1.133:4070
 Code               1250     semanurbicer   [KNOWN APP]  192.168.1.50:50096->150.171.109.100:443
 ===========================================================================
+Licensing & Commercial Terms
+This project is distributed under a Dual-License model:
+
+Non-Commercial / Academic / Personal Use: Free to use, evaluate, and study.
+
+Commercial / Enterprise Use: Requires a commercial license.
+
+For enterprise licensing or commercial integration inquiries, please contact:
+📩 Email: semanur0619.bier@gmail.com
